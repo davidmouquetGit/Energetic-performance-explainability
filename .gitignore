@@ -26,6 +26,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+pileline_explainability_init.ipynb
 anonymiserdata.ipynb
 venvexpl/
 data/
