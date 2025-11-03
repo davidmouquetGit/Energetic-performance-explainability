@@ -42,6 +42,9 @@ la contribution de chaque facteur à la variation du KPI entre "M" et "M-1" s'é
 <p align="center">
   <img src="images/contrib_shapeley.png" alt="metho" width="35%"/>
 </p>
-
+Et:
+<p align="center">
+  <img src="images/contrib_shapeley2.png" alt="metho" width="35%"/>
+</p>
 
 [shapeley](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)
