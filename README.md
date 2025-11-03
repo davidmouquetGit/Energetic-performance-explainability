@@ -49,7 +49,7 @@ Et:
 
 La démarche générale, détaillée dans le notebook, est illustrée ci-dessous:
 <p align="center">
-  <img src="images/methodo.png" alt="metho" width="45%"/>
+  <img src="images/methodo.png" alt="metho" width="65%"/>
 </p>
 
 
