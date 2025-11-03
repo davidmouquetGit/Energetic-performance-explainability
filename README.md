@@ -27,7 +27,7 @@ Dans le cas où le modèle n'est pas une régression linéaire, il y'a 2 points 
 
 Concernant le 2ème point, nous utilison la méthode du Shapley qui permet, pour chaque point "t", d'approximer le modèle initial sous la forme d'une valeur moyenne (sur la période) de la variable modélisée + une somme de contributions de chaque facteurs:
 <p align="center">
-  <img src="images/equationshapeley.png" alt="metho" width="35%"/>
+  <img src="images/equationshapeley.png" alt="metho" width="28%"/>
 </p>
 
 Le 1er point implique que si la maille d'analyse est le mois, il est nécessaire de passer de l'échelle "t" à l'échelle mensuelle. Dans le cas où le KPI est une consommation spécifique (par exemple une consommation / production), on peut montrer algébriquement que la contribution s'écrit comme la somme des contributions à la maille "t" pondérée par la production mensuelle:
@@ -42,6 +42,11 @@ la contribution de chaque facteur à la variation du KPI entre "M" et "M-1" s'é
 <p align="center">
   <img src="images/contrib_shapeley.png" alt="metho" width="35%"/>
 </p>
+Et:
+<p align="center">
+  <img src="images/contrib_shapeley2.png" alt="metho" width="45%"/>
+</p>
 
+## sources
 
 [shapeley](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)
