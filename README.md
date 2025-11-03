@@ -47,6 +47,13 @@ Et:
   <img src="images/contrib_shapeley2.png" alt="metho" width="45%"/>
 </p>
 
+La démarche générale, détaillée dans le notebook, est illustrée ci-dessous:
+<p align="center">
+  <img src="images/methodo.png" alt="metho" width="45%"/>
+</p>
+
+
+
 ## sources
 
 [shapeley](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)
